@@ -1,0 +1,13 @@
+{
+  "name": "@g3x/sdk",
+  "version": "0.1.0",
+  "description": "Minimal reference SDK for G3X execution layer",
+  "main": "index.js",
+  "keywords": [
+    "g3x",
+    "web3",
+    "game",
+    "sdk"
+  ],
+  "license": "MIT"
+}
